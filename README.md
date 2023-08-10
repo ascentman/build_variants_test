@@ -1,4 +1,4 @@
-# build_varints_test
+# build_variants_test
 
 A new Flutter project which creates build variants using flutter flavor package:
 
